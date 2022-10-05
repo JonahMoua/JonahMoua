@@ -13,23 +13,23 @@ I’m Jonah, a Frontend React Developer, creative coder and self-proclaimed desi
 <br>
 
 <a href="https://github.com/JonahMoua/amazoneclonedeployment.git">
-  <img align="center" style="margin:0.5rem" src="./asset/amazon_banner.png" />
+  <img align="center" style="margin:0.5rem" src="/asset/amazon_banner.png" />
 </a>
 
 <br>
 
 <a href="https://github.com/JonahMoua/linkedinclone.git">
-  <img align="center" style="margin:0.5rem" src="./asset/linkedin_banner.png" />
+  <img align="center" style="margin:0.5rem" src="/asset/linkedin_banner.png" />
 </a>
 
 <br>
 
 <a href="https://github.com/JonahMoua/covidtracker.git">
-  <img align="center" style="margin:0.5rem" src="./asset/covid_banner.png" />
+  <img align="center" style="margin:0.5rem" src="/asset/covid_banner.png" />
 </a>
 <br>
 <a href="https://github.com/JonahMoua/capital.git">
-  <img align="center" style="margin:0.5rem" src="./asset/capital_banner.png" />
+  <img align="center" style="margin:0.5rem" src="/asset/capital_banner.png" />
 </a>
 
 <br>
