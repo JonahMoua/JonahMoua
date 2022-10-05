@@ -16,7 +16,7 @@ I’m Jonah, a Frontend React Developer, creative coder and self-proclaimed desi
   <img align="center" style="margin:0.5rem" src="amazon_banner.png" />
 </a>
 
-<br>
+
 
 <a href="https://github.com/JonahMoua/linkedinclone.git">
   <img align="center" style="margin:0.5rem" src="linkedin_banner.png" />
@@ -27,7 +27,8 @@ I’m Jonah, a Frontend React Developer, creative coder and self-proclaimed desi
 <a href="https://github.com/JonahMoua/covidtracker.git">
   <img align="center" style="margin:0.5rem" src="covid_banner.png" />
 </a>
-<br>
+
+
 <a href="https://github.com/JonahMoua/capital.git">
   <img align="center" style="margin:0.5rem" src="capital_banner.png" />
 </a>
