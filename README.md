@@ -25,12 +25,12 @@ I’m Jonah, a Frontend React Developer, creative coder and self-proclaimed desi
 <br>
 
 <a href="https://github.com/JonahMoua/covidtracker.git">
-  <img align="center" style="margin:0.5rem" src="covid_banner.png" width="450"/>
+  <img align="center" style="margin:0.5rem; float: right;" src="covid_banner.png" width="450"/>
 </a>
 
 
 <a href="https://github.com/JonahMoua/capital.git">
-  <img align="center" style="margin:0.5rem" src="capital_banner.png" width="450"/>
+  <img align="center" style="margin:0.5rem; float: right;" src="capital_banner.png" width="450"/>
 </a>
 
 <br>
