@@ -13,7 +13,7 @@ I’m Jonah, a Frontend React Developer, creative coder and self-proclaimed desi
 <br>
 
 <a href="https://github.com/JonahMoua/amazoneclonedeployment.git">
-  <img align="center" style="margin:0.5rem" src="/asset/amazon_banner.png" />
+  <img align="center" style="margin:0.5rem" src="amazon_banner.png" />
 </a>
 
 <br>
