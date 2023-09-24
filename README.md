@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-I’m Jonah, a Frontend React Developer, creative coder specializes in fullstack development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Jonah, a Fullstack React Developer, creative coder specializes in fullstack development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
 
 ## 📌 Pinned Repositories
